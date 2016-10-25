@@ -11,5 +11,6 @@ depexts: [
   [["fedora"] ["wget"]]
   [["archlinux"] ["wget"]]
   [["nixpkgs"] ["wget"]]
+  [["gentoo"] ["net-misc/wget"]]
   [["osx" "homebrew"] ["wget"]]
 ]
