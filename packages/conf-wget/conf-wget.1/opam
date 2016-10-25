@@ -9,6 +9,7 @@ depexts: [
   [["debian"] ["wget"]]
   [["ubuntu"] ["wget"]]
   [["fedora"] ["wget"]]
+  [["archlinux"] ["wget"]]
   [["nixpkgs"] ["wget"]]
   [["osx" "homebrew"] ["wget"]]
 ]
